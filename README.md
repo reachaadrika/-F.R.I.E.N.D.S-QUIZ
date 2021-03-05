@@ -22,6 +22,8 @@ To save Your name along with scores, click on the "Save Scores " Button , and yo
 
 To view highscores , click on the "Leaderboard" button .
 
+
+
 # PREVIEW OF HOMEPAGE
 
 ![image](https://user-images.githubusercontent.com/64789514/110167264-85446180-7e1b-11eb-9e12-f6994ac0f174.png)
