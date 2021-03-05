@@ -119,7 +119,7 @@ getNewQues = () => {
         //go to the end page
 
         localStorage.setItem('recentScore',points);       
-        return window.location.assign("file:///C:/Users/aadri/OneDrive/Desktop/Javascript%20Projects/Quiz%20App/end.html");
+        return window.location.assign("end.html");
     }
     counter++;
       
