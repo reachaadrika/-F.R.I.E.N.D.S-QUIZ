@@ -21,6 +21,7 @@ user.addEventListener('keyup',() => {
 
 saveHighScore = e => {
     console.log("clicked");
+    swal("Saved", " Congratulations F.R.I.E.N.D.S! ", { icon: "success", });
     e.preventDefault(); // prevent form for taking action (next page)
 
     const points={
