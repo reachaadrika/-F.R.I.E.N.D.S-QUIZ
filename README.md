@@ -11,7 +11,8 @@ I created this quiz app using HTML, CSS And Javascript.
 
 Here in this Quiz ,
 Maximum Questions : 10
-For each correct answer: 10 points ,
+For each correct answer: 10 points 
+And
 For each wrong answer:0 points 
 
 If you choose the 
